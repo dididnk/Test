@@ -1,0 +1,13 @@
+true,1912-01-16,1.70,Charlotte,Macron
+true,1803-08-02,1.50,Stephane,Dupont
+false,2000-05-27,1.80,Sandrine,Raoul
+false,1999-07-06,1.65,brigite,Dupont
+true,1912-01-16,1.70,Nathalie,Kunze
+true,1803-08-02,1.50,Patric,Mazeau
+false,2000-05-27,1.80,Bernard,Bouchilloux
+false,1999-07-06,1.65,Petra,White
+true,1803-08-02,1.50,Bob,Moran
+false,2000-05-27,1.80,Jason,Briggs
+false,1999-07-06,1.65,Franck,Herbert
+false,1999-07-06,1.65,Clark,Kent
+false,1999-07-06,1.65,Loise,Lane
